@@ -1,0 +1,13 @@
+SISTEMA DE PLANIFICACION DE ENTRENAMIENTOS DEPORTIVOS
+
+1. REGISTRO DE SUPUESTOS
+- La aplicacion asume un entorno de trabajo transitorio bajo la semana 3 de entrenamiento. La restriccion consecutiva filtra los ejercicios marcados previamente en las semanas 2 o 3.
+- Los tipos aceptados por la logica del Factory son rigurosamente "Cardiovascular" y "Fuerza".
+
+2. FORMATO DEL ARCHIVO (ejercicios.csv)
+Estructura plana separada por ';' para asegurar la estabilidad gramatical de los parrafos de descripcion.
+Columnas obligatorias: Codigo;Nombre;Tipo;Intensidad;TiempoMinutos;DescripcionActividad;UltimaSemanaUso
+
+3. REQUERIMIENTOS DE EJECUCION
+- Compilar todo el ecosistema de clases desde la raiz mediante la ejecucion de la clase 'Main.java'.
+- Mantener el archivo de datos 'ejercicios.csv' en la misma carpeta raiz de ejecucion.

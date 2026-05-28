@@ -1,0 +1,100 @@
+E001;Trote en Cinta;Cardiovascular;Básico;20;Trote continuo a ritmo muy suave y controlado para adaptacion aerobica.;1
+E002;Bicicleta Fija;Cardiovascular;Básico;30;Pedaleo constante de baja intensidad ideal para mantenimiento basico.;1
+E003;Caminata Inclinada;Cardiovascular;Básico;25;Caminata a paso firme aplicando pendiente moderada en la maquina.;1
+E004;Eliptica Suave;Cardiovascular;Básico;20;Movimiento eliptico fluido sin resistencia para activar articulaciones.;1
+E005;Remo de Baja Intensidad;Cardiovascular;Básico;15;Remo continuo manteniendo una progresion de empuje muy controlada.;1
+E006;Saltos de Tijera Basicos;Cardiovascular;Básico;10;Saltos coordinados de piernas y brazos a ritmo pausado.;1
+E007;Marcha en el Lugar;Cardiovascular;Básico;15;Elevacion de rodillas intermitente simulando marcha sin desplazamiento.;1
+E008;Step Plataforma Baja;Cardiovascular;Básico;20;Subidas y bajadas secuenciales de un escalon minimo sin carga.;1
+E009;Trote Estacionario;Cardiovascular;Básico;12;Simulacion de trote sin moverse del punto de apoyo inicial.;1
+E010;Giros de Torso Core;Cardiovascular;Básico;15;Rotacion dinamica de tronco para estimulacion de la zona media.;1
+E011;Saltos Laterales Cortos;Cardiovascular;Básico;10;Pliometria de muy bajo impacto saltando de lado a lado.;1
+E012;Desplazamientos Laterales;Cardiovascular;Básico;15;Movimiento de lado a lado manteniendo el centro de gravedad bajo.;1
+E013;Flexiones en Pared;Fuerza;Básico;12;Flexoextension de brazos apoyando las manos fijas sobre el muro.;1
+E014;Sentadillas Libres Basicas;Fuerza;Básico;15;Sentadilla profunda auto carga usando el peso corporal de apoyo.;1
+E015;Puente de Gluteo;Fuerza;Básico;20;Elevacion de pelvis en suelo manteniendo contraccion de gluteos.;1
+E016;Extension de Cuadriceps;Fuerza;Básico;12;Extension de rodilla en maquina con carga ligera preestablecida.;1
+E017;Curl de Biceps Mancuerna;Fuerza;Básico;15;Flexion de codo usando mancuernas de peso bajo de forma alternada.;1
+E018;Press de Hombros Sentado;Fuerza;Básico;12;Empuje vertical de mancuernas ligeras manteniendo espalda apoyada.;1
+E019;Remo con Banda Elastica;Fuerza;Básico;15;Traccion horizontal de banda elastica anclada a un punto fijo.;1
+E020;Patada de Triceps Mancuerna;Fuerza;Básico;12;Extension posterior de codo con tronco ligeramente inclinado.;1
+E021;Elevaciones Laterales;Fuerza;Básico;15;Abduccion de hombros con cargas minimas buscando control muscular.;1
+E022;Pajaros Mancuerna Ligera;Fuerza;Básico;12;Aperturas posteriores para deltoides con inclinacion de tronco.;1
+E023;Curl de Piernas Tumbado;Fuerza;Básico;15;Flexion de rodilla en maquina acostado para estimulo femoral.;1
+E024;Prensa de Piernas Ligera;Fuerza;Básico;12;Empuje controlado en prensa con angulo comodo y peso bajo.;1
+E025;Abdominales de Tronco Cortos;Fuerza;Básico;20;Flexion abdominal alta despegando solo las escapulas del suelo.;1
+E026;Trote Ritmo Moderado;Cardiovascular;Intermedio;25;Trote continuo manteniendo zona de pulsaciones en rango aerobico.;1
+E027;Bicicleta de Spinning;Cardiovascular;Intermedio;35;Pedaleo alternando cadencias medias con resistencia regulada.;1
+E028;Eliptica con Carga;Cardiovascular;Intermedio;30;Trabajo eliptico aplicando resistencia magnetica intermedia.;1
+E029;Remo Continuo;Cardiovascular;Intermedio;20;Remo de velocidad constante buscando eficiencia en cada traccion.;1
+E030;Saltos a la Cuerda Estandar;Cardiovascular;Intermedio;15;Saltos continuos con cuerda manteniendo ritmo coordinado.;1
+E031;Burpees Adaptados;Cardiovascular;Intermedio;12;Secuencia de flexión, salto y extension sin impacto excesivo.;1
+E032;Subidas a Cajon Medio;Cardiovascular;Intermedio;15;Ascensos dinamicos alternando piernas en un banco de altura media.;1
+E033;Escaladores de Montana;Cardiovascular;Intermedio;12;Llevar rodillas al pecho de forma alterna desde posicion plancha.;1
+E034;Desplazamientos en Zigzag;Cardiovascular;Intermedio;15;Carrera corta de agilidad cambiando de direccion constantemente.;1
+E035;Saltos en Sentadilla Cortos;Cardiovascular;Intermedio;10;Sentadilla seguida de un salto vertical de potencia moderada.;1
+E036;Sprints en Bicicleta Fija;Cardiovascular;Intermedio;15;Intervalos de velocidad intercalados con fases de recuperacion.;1
+E037;Trote con Cambios de Ritmo;Cardiovascular;Intermedio;20;Fartlek basico alternando tramos rapidos con trotes lentos.;1
+E038;Press de Banca Regular;Fuerza;Intermedio;12;Press horizontal con barra controlando la fase excentrica.;1
+E039;Sentadillas con Barra Mediana;Fuerza;Intermedio;10;Sentadillas tecnicas con peso medio buscando profundidad.;1
+E040;Remo con Barra Inclinado;Fuerza;Intermedio;12;Traccion hacia el abdomen aislando la musculatura dorsal.;1
+E041;Peso Muerto Rumano Barra;Fuerza;Intermedio;10;Bisagra de cadera controlada activando isquiotibiales y gluteos.;1
+E042;Dominadas Asistidas Maquina;Fuerza;Intermedio;8;Traccion vertical utilizando contrapeso para asistencia tecnica.;1
+E043;Fondos en Paralelas Asistidos;Fuerza;Intermedio;10;Extension de codos para pecho y triceps con ayuda mecanica.;1
+E044;Press Militar con Mancuernas;Fuerza;Intermedio;12;Empuje vertical de hombros buscando maxima estabilidad de core.;1
+E045;Zancadas Dinamicas Mancuerna;Fuerza;Intermedio;12;Estocadas caminando con mancuernas a los costados del cuerpo.;1
+E046;Zancadas Bulgaras Libres;Fuerza;Intermedio;10;Sentadilla unilateral apoyando el pie posterior en un banco.;1
+E047;Curl de Biceps Barra Z;Fuerza;Intermedio;12;Flexion de codos con agarre supino comodo protegiendo munecas.;1
+E048;Press Frances Barra;Fuerza;Intermedio;10;Extension de codos tumbado llevando la barra hacia la frente.;1
+E049;Elevaciones de Talones de Pie;Fuerza;Intermedio;20;Extension de tobillo con carga media aislando los gemelos.;1
+E050;Plancha Abdominal Isometrica;Fuerza;Intermedio;15;Sosten postural apoyando antebrazos con core totalmente activo.;1
+E051;Trote Ritmo Umbral;Cardiovascular;Avanzado;40;Carrera al limite del umbral lactato manteniendo velocidad alta.;1
+E052;Intervalos de Remo Potencia;Cardiovascular;Avanzado;25;Series de potencia maxima en ergometro con descansos cortos.;1
+E053;Circuitos de Agilidad Rapida;Cardiovascular;Avanzado;20;Estaciones dinamicas de alta coordinacion y transferencia.;1
+E054;Saltos Dobles de Cuerda;Cardiovascular;Avanzado;15;Saltos pliometricos donde la cuerda pasa dos veces por salto.;1
+E055;Burpees Completos con Salto;Cardiovascular;Avanzado;15;Flexion de pecho en suelo mas salto explosivo vertical final.;1
+E056;Escaladores Cruzados Rapidos;Cardiovascular;Avanzado;12;Rodilla a codo contrario a velocidad maxima sostenida.;1
+E057;Sprints de Trote en Subida;Cardiovascular;Avanzado;15;Carreras ascendentes cortas a maxima potencia muscular.;1
+E058;Empuje de Trineo de Carga;Cardiovascular;Avanzado;10;Arrastre y empuje de carga pesada en tramo lineal de velocidad.;1
+E059;Pasos del Oso Dinamicos;Cardiovascular;Avanzado;12;Desplazamiento cuadrupedico manteniendo rodillas ras de suelo.;1
+E060;Saltos de Patinador Laterales;Cardiovascular;Avanzado;15;Saltos de lado a lado imitando patinaje de velocidad pura.;1
+E061;Carrera de Lanzaderas Cortas;Cardiovascular;Avanzado;12;Carreras de ida y vuelta frenando y acelerando al maximo.;1
+E062;Circuito Kettlebell Swings;Cardiovascular;Avanzado;20;Balanceos explosivos encadenados elevando frecuencia cardiaca.;1
+E063;Press de Banca Pesado;Fuerza;Avanzado;8;Press con cargas elevadas buscando maxima tension mecanica.;1
+E064;Sentadillas Traseras Barra;Fuerza;Avanzado;6;Sentadillas profundas con carga alta y tecnica estricta.;1
+E065;Peso Muerto Convencional Barra;Fuerza;Avanzado;5;Levantamiento desde el suelo trabajando toda la cadena posterior.;1
+E066;Dominadas Estrictas Pronas;Fuerza;Avanzado;8;Traccion vertical pura elevando el menton sobre la barra fija.;1
+E067;Press Militar con Barra;Fuerza;Avanzado;6;Empuje de hombros de pie con barra olimpica desde el pecho.;1
+E068;Zancadas Bulgaras Mancuernas;Fuerza;Avanzado;8;Trabajo unilateral pesado de piernas usando mancuernas solidas.;1
+E069;Fondos en Paralelas Libres;Fuerza;Avanzado;10;Flexoextension profunda cargando la totalidad del peso corporal.;1
+E070;Prensa de Piernas Pesada;Fuerza;Avanzado;8;Empuje de alta carga en prensa lineal aislando cuadriceps.;1
+E071;Remo con Mancuerna Pesado;Fuerza;Avanzado;10;Traccion unilateral con mancuerna de alta densidad en banco.;1
+E072;Remo Seal en Banco Plano;Fuerza;Avanzado;8;Remo horizontal tumbado boca abajo eliminando ayuda lumbar.;1
+E073;Curl de Biceps Banco Inclinado;Fuerza;Avanzado;10;Flexion de brazos con mancuernas maximizando el estiramiento.;1
+E074;Copas de Triceps Mancuerna;Fuerza;Avanzado;10;Extension de codo sobre la cabeza con mancuerna pesada.;1
+E075;Rueda Abdominal Completa;Fuerza;Avanzado;12;Extension e incorporacion de core usando rodillo desde rodillas.;1
+E076;HIIT Sprints Pista;Cardiovascular;Alto rendimiento;20;Intervalos de velocidad al cien por ciento de capacidad.;1
+E077;HIIT Ergometro de Remo;Cardiovascular;Alto rendimiento;15;Sprints explosivos de 200 metros con recuperaciones minimas.;1
+E078;Saltos a Cajon Maxima Altura;Cardiovascular;Alto rendimiento;10;Pliometria reactiva buscando la maxima extension vertical.;1
+E079;Sprints en Assault Bike;Cardiovascular;Alto rendimiento;12;Pedaleo y empuje de brazos a maxima potencia metabolica.;1
+E080;Carreras de Resistencia HIIT;Cardiovascular;Alto rendimiento;25;Intervalos de alta intensidad estructurados por tiempo.;1
+E081;Burpees sobre Barra Olimpica;Cardiovascular;Alto rendimiento;15;Burpee lateral saltando la barra con pies juntos.;1
+E082;Pasos del Oso con Lastre;Cardiovascular;Alto rendimiento;10;Desplazamiento cuadrupedico arrastrando un disco pesado.;1
+E083;Lanzamientos de Balon Med;Cardiovascular;Alto rendimiento;15;Sentadilla y lanzamiento explosivo de balon hacia el muro.;1
+E084;Saltos Pliometricos Continuos;Cardiovascular;Alto rendimiento;12;Saltos sobre vallas encadenados minimizando tiempo de apoyo.;1
+E085;Sprints con Paracaidas;Cardiovascular;Alto rendimiento;10;Carrera de velocidad sumando resistencia por arrastre de aire.;1
+E086;Saltos Horizontales Triple;Cardiovascular;Alto rendimiento;8;Saltos de longitud consecutivos encadenando potencia.;1
+E087;Carrera con Chaleco Lastrado;Cardiovascular;Alto rendimiento;20;Trote de alta exigencia cargando peso adicional en torso.;1
+E088;Peso Muerto Maxima Tension;Fuerza;Alto rendimiento;3;Levantamientos de fuerza pura cercanos al maximo absoluto.;1
+E089;Sentadillas Traseras Record;Fuerza;Alto rendimiento;3;Series intensas orientadas al desarrollo de fuerza maxima.;1
+E090;Press de Banca Record;Fuerza;Alto rendimiento;4;Trabajo de empuje horizontal pesado con pausas competitivas.;1
+E091;Clean and Jerk Olimpico;Fuerza;Alto rendimiento;3;Movimiento de levantamiento en dos tiempos de alta potencia.;1
+E092;Snatch Olimpico Barra;Fuerza;Alto rendimiento;3;Levantamiento olimpico en un solo movimiento de extension.;1
+E093;Dominadas Lastradas Pesadas;Fuerza;Alto rendimiento;5;Traccion vertical sumando discos suspendidos en cinturon.;1
+E094;Fondos Lastrados Paralelas;Fuerza;Alto rendimiento;5;Fondos de pecho sumando alta carga externa al peso corporal.;1
+E095;Press Militar de Pie Barra;Fuerza;Alto rendimiento;4;Empuje vertical estricto con cargas de maxima exigencia.;1
+E096;Zancadas Bulgaras Barra;Fuerza;Alto rendimiento;5;Sentadilla unilateral cargando barra olimpica en la espalda.;1
+E097;Remo con Barra Pendlay;Fuerza;Alto rendimiento;6;Remo estricto desde el suelo en cada repeticion sin impulso.;1
+E098;Peso Muerto Deficit Barra;Fuerza;Alto rendimiento;4;Peso muerto subido en plataforma aumentando el rango de viaje.;1
+E099;Sentadillas Frontales Pesadas;Fuerza;Alto rendimiento;5;Sentadilla con barra en posicion rack exigiendo core y cuadriceps.;1
+E100;Paseo del Granjero Pesado;Fuerza;Alto rendimiento;10;Caminata transportando cargas extremas en ambas manos.;1
